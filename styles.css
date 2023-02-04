@@ -186,7 +186,7 @@ button:hover {
 }
 
 .video-section {
-    background-image: url(images/video.png);
+    background-image: url(video.png);
     height: 80rem;
     background-repeat: no-repeat;
     background-position: center;
