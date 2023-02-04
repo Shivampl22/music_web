@@ -79,7 +79,7 @@ header {
 
 /* main hero section */
 .hero-section {
-    background-image: url(images/hero_image.png);
+    background-image: url(hero_image.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
